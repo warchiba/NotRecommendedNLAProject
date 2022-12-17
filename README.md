@@ -1,1 +1,2 @@
-# Not_Recommended_NLA
+# Final Project of the course "Numerical Linear Algebra"
+## Team: Not Recommended
