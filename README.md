@@ -6,7 +6,7 @@
 - Alexander Kharitonov
 - Alina Bogdanova
 - Kira Kuznetsova
-- Alex Odnakov
+- Aleksandr Odnakov
 
 ## Topic of the project
 Fast Matrix Factorization for Recommender Systems with Implicit Feedback
